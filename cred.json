@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "optimal-sylph-434620-u3",
+  "private_key_id": "928c7962f3682c7b932ecfd515e57e88c0fea5b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4GRkALlGdLcDl\nWNglhly6TEqB0K5/byaAWdLDZd/ghMcxdeDiily8KDZnwN2JFQ3SoGYxvUO/NNTu\nSA7DUz4iRsZNKFoOI3bU0rhw3TVshZl/0diDYt3ZhRmHXpKPzuTuS+NeulVm5tNg\nVFU5z8P/9/XeEQFbS2DTDV0PmuQy02wnWYaw9xCrf9UfmV8IBWDazICJB1cM9h07\n1B5nE3aSjNZUaNbbqsA7uzVWOA+wTkHsHpZxCIQL4wYNGE7y3GXAu5beph8WUIF/\nPXfwbG/lLtTOWk6SF+5eMnyW6HQSKfkjwDX5tBwAEbxDFGghymDWOYavX4FBICop\nSfSqFo33AgMBAAECggEAFwwJTbT+waMjNXMYaCY4gJghcbv6xHhZRRM5p/2ed+CX\ngVElDKdOsb2FBhsmgM1SdC5hbNOpYgwOph/+PSS0MB1VIP6uu3tkGoOg1HxU/leB\nXneaV+RuKpeXmRNVXMyFa3Gzrr28CExYZQRZwQmKG4bi0GCnn1LB9doD7vqwm84W\nStwyBOSixFypYrYJuAZ+fw6NT6We9WIt6tPx+ktdQ3omQ2cL26VSId6Im+k+MAoU\nP7SqYkkvxhbCtu7wyaI0u8MY/Y4ExbSWvmNoIR4D7sGrmVKh5fiINJhIul8dnMo2\nbJswwfKuEu9zuyDb9knsJmLVFM0JrLqmpEgj8rA5dQKBgQD0rEqSVcq842iXFiEl\ndi8RGta0V+Eks1QzxbwcQ+JmwwyNtzO4fl0E6PaEDvi9FK6old3c1qeTcq1EPXPr\n4oc0iFVu3MrqneluodoTQIkDD1SoadC/7sgUo19bI4YXDWxzvv3DsnE4Uen6Dlvi\ny+KJW3xkWZxCD5y7HIdZcLqUywKBgQDAnukMIS298qMxY22yPjFICpBE6GcoIZaz\nbyPTE6hku5jBIbbhl4GQ2daadJrKFrFkFMb8cKisGcNEGzGiHxt41K51vkWIUds9\n5MNPFCMbj2zcP+YEwFkQuFQwdEdDu1+UYFs/retJuV8rOw1TfDHPE42VK9arzPQc\nEbZqJeYyBQKBgG5r50e9kj7G/ufY4+KtQLaefzFqy8Atcp3e6nNzK5UnB95ZRO1J\nkh9qJ/8XZqim0eBhqnxFH+HKimnWth9J360UrkHXQXi7BaOZRfsUUAFihNlwz/Yf\nBItT4/AUyypSM5TVKF+Og8xgI5Fns45aZ4WIFU6QppWlyB0l1evGlV4bAoGBAKdm\nc6ry+snloSY+/wq1Oicd5xu7zkr2Rf5TTJMYtnQ1BSBzqHiOLzAv4W4CgLO43RnZ\nZMXnMu++xBDggVYgKsPsMmJppgw+94bm1UZYfdpp33XaopDmiYEacTBbHcQjh4Fv\n7F1/TMiZrbfobkBr4u3QVG+b1ckhKdVrH1lI7rHxAoGAbp1W9bPYJhzxP8ZpdRR5\nLyj6u3A6v440V1/AuwKuPuV/v7NGtklTUxH4Zq2Uzm1G+loz2Pev0vwq4Lo0ZeGs\nc+eI6Dvdb4ImwvtyTUIdiBxcXh+5CiQ4lfLwPpiP7tm8EoARlc8BkKR++oKLp4PD\nEOAJnj5i7oqrqMR9nSjb/3I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "painel-aisp@optimal-sylph-434620-u3.iam.gserviceaccount.com",
+  "client_id": "104586971292888427631",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/painel-aisp%40optimal-sylph-434620-u3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
