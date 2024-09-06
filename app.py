@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
+from streamlit_folium import st_folium
 import folium
 
 st.set_page_config(page_title='Painel AIPS', page_icon='map_chart', layout='wide')
